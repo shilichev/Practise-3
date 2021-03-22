@@ -1,0 +1,11 @@
+.main {
+  width: 1000px;
+  height: 800px;
+  background-color: rgb(161, 161, 255);
+  position: relative;
+}
+.number {
+  position: absolute;
+  font-size: 30px;
+  color: rgb(102, 18, 199);
+}
